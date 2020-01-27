@@ -24,7 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost/freelance/daanish_travels';
-$config['base_url'] = 'http://daanish.hashtechhub.in';
+$config['base_url'] = 'hashtech_projects/daanishgroup';
+// $config['base_url'] = 'daanishgroup.com';
 
 /*
 |--------------------------------------------------------------------------
