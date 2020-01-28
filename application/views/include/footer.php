@@ -112,15 +112,21 @@
                         <div class="widget-footer">
                             <div class="widget-contact">
                                 <h4>CONTACT <span>US</span></h4>
+                                <h6>Corporate Office Address</h6>
                                 <ul class="contact-list">
                                     <li class="contact-phone">
-                                        Phone: +123-456-7890
+                                        Phone : 0240-2342883
+                                        Mobile : 09021329021
+                                        Tele Fax : 0240-2369867
                                     </li>
                                     <li class="contact-email">
-                                        Email: Hello@sakatran.com
+                                        Email: infotravels@daanishgroup.com
                                     </li>
                                     <li class="contact-address">
-                                        Address: Tyche collins, 09 Downtown, Victoria, Australia
+                                        Address: Shop no.1, Omar Mansion,Plot no. 2-10-58, Vip Road,Labour Colony, Aurangabad – 431001.
+                                    </li>
+                                    <li class="contact-phone">
+                                        24x7 Customer Care – 09021329021
                                     </li>
                                 </ul>
                             </div>
