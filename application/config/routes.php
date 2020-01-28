@@ -63,3 +63,4 @@ $route['search_cruise'] = 'search_cruises';
 $route['search_cruise_reverse'] = 'search_cruises_reverse';
 
 $route['manage'] = 'manage/login';
+// $route['ccavRequestHandler'] = 'manage/flight_ticket_inquiry/paynow/ccavRequestHandler';

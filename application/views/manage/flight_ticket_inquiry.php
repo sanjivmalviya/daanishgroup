@@ -90,17 +90,13 @@
 
                                 <th>Created at</th>
 
+                                <th>Actions</th>
+
                             </thead>
-
-
 
                             <tbody>
 
-
-
                                 <?php if(isset($flight_ticket_inquiries)){ ?>
-
-
 
                                     <?php $i=1; foreach($flight_ticket_inquiries as $rs){ ?>
 
@@ -135,6 +131,8 @@
                                             <td><?php if($rs->status == '1'){ echo "Done"; }else{ echo "Pending"; } ?></td>
 
                                             <td><?php echo $rs->created_at; ?></td>
+
+                                            <td><a href="<?php echo site_url('/manage/flight_ticket_inquiry/paynow/'.$rs->id); ?>" class="btn btn-primary btn-sm">Pay Now</a></td>
 
                                         </tr>
 

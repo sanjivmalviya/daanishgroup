@@ -23,8 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-// $config['base_url'] = 'http://localhost/freelance/daanish_travels';
-$config['base_url'] = 'hashtech_projects/daanishgroup';
+$config['base_url'] = 'http://localhost/hashtech_projects/daanishgroup';
 // $config['base_url'] = 'daanishgroup.com';
 
 /*

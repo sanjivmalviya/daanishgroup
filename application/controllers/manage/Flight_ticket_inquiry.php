@@ -18,6 +18,13 @@ class Flight_ticket_inquiry extends CI_Controller {
 		$this->load->view('manage/flight_ticket_inquiry',$data);
 		
 	}
+
+	public function paynow($id){
+
+		$data['id'] = $id;
+		$this->load->view('manage/dataFrom',$data);	
+
+	}
 	
 
 }
