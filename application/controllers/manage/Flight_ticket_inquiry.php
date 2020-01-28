@@ -21,7 +21,8 @@ class Flight_ticket_inquiry extends CI_Controller {
 
 	public function paynow($id){
 
-		$data['id'] = $id;
+		echo $data['id'] = $id;
+		exit;
 		$this->load->view('manage/dataFrom',$data);	
 
 	}
